@@ -10,4 +10,4 @@ C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Bin\Wi
 
 If you have installed STEAM on an external storage device it won't be Drive C:
 
-Too long didn't read? Here is a VIDEO to watch How to Install:  
+Too long didn't read? Here is a VIDEO to watch How to Install:   https://www.youtube.com/watch?v=-XNHUVrB5uk
