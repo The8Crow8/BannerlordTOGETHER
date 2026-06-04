@@ -32,7 +32,6 @@ Attack+BlockHEAL: v0.1.0.1
 TraderMoreMoney: v1.0.0.0
 CaptiveLabor: v0.0.1.0
 RemoteFiefControl: v0.0.1.0
-MercenaryWithFief: v3.0.0.0
 GetYourOwnHorse: v1.0.0.0
 YouKeepWhatYouKill: v1.3.15.1
 CourierMessenger: v1.1.0.110062
@@ -46,3 +45,4 @@ Overhead Shieldwall: v1.3.0.0
 AutoRecruitSoldiers: v1.0.1.0
 GoldRushConstruction: v0.0.1.0
 PartySpeedConfigurable: v1.1.0.0
+MercenaryWithFief: v3.0.0.0
